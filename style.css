@@ -1,0 +1,49 @@
+
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #131313;
+    color:white;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    background: linear-gradient(rgba(0, 0, 0, 0.95), rgba(0, 0, 0, 0.90)),
+    url('fundo.webp');
+    background-size: cover;
+    background-position: center;
+    
+}
+
+h1 {
+    font-size: 80px;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+#gif {
+    margin-bottom: 10%;
+}
+
+#ela {
+    width: 400px;
+    border-radius: 50%;
+    box-shadow: 2px 5px 5px rgba(0, 0, 0, 0.5);
+    margin-bottom: 5%;
+
+}
+
+#imgdescer {
+    width: 80px;
+}
+
+
+.desce {
+    display: flex;
+    margin-bottom: 15%;
+}
+
+
